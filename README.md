@@ -5,7 +5,7 @@ Vitruvi Challenge
 ## Install
 
 ```bash
-git clone https://github.com/pablom555/itruviChallenge.git
+git clone https://github.com/pablom555/vitruviChallenge.git
 yarn install
 ```
 
