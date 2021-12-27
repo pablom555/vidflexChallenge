@@ -5,10 +5,10 @@ const initialState = {
   tasks: [
     {
       id: uuidv4(),
-      name: "pepe",
-      description: "description 1",
-      estimate: 2,
-      state: "Completed",
+      name: "Todo Challenge Vitruvi",
+      description: "",
+      estimate: 4,
+      state: "In Progress",
     },
   ],
   loading: false,
